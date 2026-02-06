@@ -7,6 +7,7 @@ Date: Feb 2026
 ## Project Description
 This repository demonstrates basic Git operations including branching, merging,and conflict resolution for CSE 5324.
 
-## Features
-- Calculator with basic operations
-- User authentication system
+## Project Features
+- Mathematical calculator module with basic operations
+- Secure user authentication and login system
+- Application logging functionality
